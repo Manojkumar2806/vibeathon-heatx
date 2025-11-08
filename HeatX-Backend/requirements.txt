@@ -1,0 +1,13 @@
+chromadb
+fastapi
+joblib
+langchain
+matplotlib
+openpyxl
+pandas
+python-docx
+python-dotenv
+python-multipart
+requests
+scikit-learn
+uvicorn
